@@ -65,7 +65,7 @@ namespace _007_PrimMST
 
         private void PrintSelected(bool[] selected)
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException(); 
         }
 
         private void PrintDist(int[] dist)
