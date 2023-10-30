@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Dijkstra", "008_Dijkstr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Fibonacci", "009_Fibonacci\009_Fibonacci.csproj", "{6B6A3D51-8EA4-4DA7-B87C-256262063D87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Tile", "010_Tile\010_Tile.csproj", "{881F7642-AE4C-4591-B9AA-A067A1B70F95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{6B6A3D51-8EA4-4DA7-B87C-256262063D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B6A3D51-8EA4-4DA7-B87C-256262063D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B6A3D51-8EA4-4DA7-B87C-256262063D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881F7642-AE4C-4591-B9AA-A067A1B70F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881F7642-AE4C-4591-B9AA-A067A1B70F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881F7642-AE4C-4591-B9AA-A067A1B70F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881F7642-AE4C-4591-B9AA-A067A1B70F95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
