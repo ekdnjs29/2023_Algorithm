@@ -146,8 +146,8 @@ namespace _005_SortAlgorithm
                     if (a[j] > a[j + i])
                     {
                         int t = a[j];
-                        a[j] = a[j + i];
-                        a[j + i] = t;
+                        a[j] = a[j + 1];
+                        a[j + 1] = t;
                     }
                 }
             }
