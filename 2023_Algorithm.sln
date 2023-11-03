@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Fibonacci", "009_Fibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Tile", "010_Tile\010_Tile.csproj", "{881F7642-AE4C-4591-B9AA-A067A1B70F95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_FloydWarshall", "011_FloydWarshall\011_FloydWarshall.csproj", "{B98E1229-B8F0-4A14-B367-D0E0F7C1B24C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{881F7642-AE4C-4591-B9AA-A067A1B70F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{881F7642-AE4C-4591-B9AA-A067A1B70F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{881F7642-AE4C-4591-B9AA-A067A1B70F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98E1229-B8F0-4A14-B367-D0E0F7C1B24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98E1229-B8F0-4A14-B367-D0E0F7C1B24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98E1229-B8F0-4A14-B367-D0E0F7C1B24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98E1229-B8F0-4A14-B367-D0E0F7C1B24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
